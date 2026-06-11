@@ -1,4 +1,4 @@
-ARG BUILD_FROM
+ARG BUILD_FROM=ghcr.io/home-assistant/amd64-base:3.19
 FROM ${BUILD_FROM}
 
 ARG BACKEND_REPO=https://github.com/dogtreatfairy/balboa_worldwide_app.git
@@ -26,6 +26,7 @@ RUN apk update && apk add --no-cache \
   && rm -rf /tmp/balboa_worldwide_app \
   && apk del build-base \
   && rm -rf /var/cache/apk/* /tmp/* /var/tmp/*
+ENV BUNDLE_DEPLOYMENT=false
 
 ADD docker-entrypoint.sh /
 RUN chmod +x /docker-entrypoint.sh
