@@ -56,14 +56,14 @@ If MQTT Discovery is enabled in Home Assistant, BWALink will automatically creat
 
 For more details, visit the [jshank BWALink GitHub repository](https://github.com/jshank/bwalink).
 
-[logo]: https://raw.githubusercontent.com/dogtreatfairy/bwalink-ha-addon/main/bwalink/balboa_logo.png
+[logo]: https://raw.githubusercontent.com/mattiasmercy/bwalink-ha-addon/main/bwalink/balboa_logo.png
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
-[release-shield]: https://img.shields.io/badge/version-v2026.2.1-blue.svg
-[release]: https://github.com/dogtreatfairy/bwalink-ha-addon/releases/tag/2026.2.1
+[release-shield]: https://img.shields.io/badge/version-v2026.6.1-blue.svg
+[release]: https://github.com/mattiasmercy/bwalink-ha-addonn/releases/tag/2026.6.1
 [changelog-shield]: https://img.shields.io/badge/changelog-v2026.2.1-orange.svg
-[changelog]: https://github.com/dogtreatfairy/bwalink-ha-addon/blob/main/bwalink/CHANGELOG.md
+[changelog]: https://github.com/mattiasmercy/bwalink-ha-addonn/blob/main/bwalink/CHANGELOG.md
