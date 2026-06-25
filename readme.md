@@ -34,7 +34,7 @@ BWALink is an add-on for Home Assistant that allows you to connect and control B
 ## Installation
 1. In the `Add-On Menu`, click the `Add-On Store` in the bottom right.
 2. Click the `︙` on the top right and click `Repositories`
-3. Paste in the bwalink-ha-addon repository url: https://github.com/dogtreatfairy/bwalink-ha-addon
+3. Paste in the bwalink-ha-addon repository url: https://github.com/mattiasmercy/bwalink-ha-addon
 4. Click the `︙` on the top right and click `Check for Updates`
 5. BWALink Add-On should be available to install. You might have to scroll down.
 6. Once installed, configure the add-on with your spa's IP address. You shouldn't need the MQTT URI, but some home assistant installs need it. 
